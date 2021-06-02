@@ -5,7 +5,7 @@ Project Name: Contact App
 
 Technologies : Javascript , Reactjs Framework
 
-
+This project run in web browser like chrome firefox.
 
 
 YOU CAN RUN THIS PROJECT  IN YOUR MACHINE EASILY FOLLOW THE STEPS....
@@ -107,4 +107,5 @@ NOTE : ERROR 1)IN VSCODE TERMINAL ALL COMMAND ARE RUN TO THE CONTACT-APP DIRECTO
                  
                  
                 
-                 
+      In these project i have used sematic ui link is below 
+               https://semantic-ui.com/      
